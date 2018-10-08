@@ -55,19 +55,7 @@ ApiManager GitHub,apimanager github,Apimanager 码云,ApiManager 开源中国
 API接口管理系统,API接口管理,在线API接口管理,API接口调试工具,RestApi,API调试插件
 ```
 
-<img style="width:100px;" src="http://api.crap.cn/resources/images/alipay.jpg?id=444"/>
-<img  style="width:100px;" src="http://api.crap.cn/resources/images/wepay.jpg"/>
 
-```
-各位好，我是Nico，一名年纪轻轻就秃了头的程序猿，
-好人有好报，求各位打赏，帮我集资买瓶生发水吧!
-打赏10元，你的程序从此告别bug；打赏50元，你的头发茂盛的想亚马逊丛林；
-打赏100元，加入"穿着特步相亲也能轻松俘获女神的VIP QQ群（263949884），Nico将竭诚为你提供协助部署、升级帮助、问题解答等各种羞羞的服务...
-或者
-如果你宁愿情人节独自在办公室加班修bug，也不给我买生发水
-至少帮我在 Gitee 或 GitHub 上点个赞好不好？
-:)
-```
 
 
 最新消息：</br>
